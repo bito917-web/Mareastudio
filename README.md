@@ -12,6 +12,6 @@ Es una web estática de un solo archivo (`index.html`): fuentes, imágenes y có
 
 ## Pendiente de rellenar en `index.html`
 
-- `window.__BRAND__`: `whatsapp`, `instagram` y `email` (activan los botones de contacto).
+- `window.__BRAND__`: `instagram` y `email` (activan sus botones). WhatsApp ya configurado.
 - Textos legales: buscar `[PENDIENTE` (titular, NIF, domicilio, email, hosting).
 - Cuando haya dominio: `canonical`, `og:url` y `og:image` en el `<head>`, y el `Sitemap:` en `robots.txt`.
